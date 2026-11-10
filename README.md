@@ -61,9 +61,9 @@
 
 <h2>📫 Let's Connect</h2>
 <p>
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"></a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER_WITH_COUNTRY_CODE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="32"></a>
+  <a href="www.linkedin.com/in/eyad-hamdy-104998449" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"></a>
+  <a href="mailto:eyad2000hamdy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"></a>
+  <a href="https://wa.me/+2001153010294" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="32"></a>
 </p>
 
 <div align="center">
