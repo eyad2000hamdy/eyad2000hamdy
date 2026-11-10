@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eyad%20Hamdy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=22" alt="Eyad Hamdy – Front-End Developer" width="100%">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/eyad2000hamdy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eyad+%F0%9F%91%8B;Front-End+Developer;I+build+fast%2C+clean+%26+interactive+web+apps" alt="Typing animation">
 </a>
 
@@ -28,7 +28,7 @@
       <h3>🎮 Level Up</h3>
       <p>A front-end project built with HTML, CSS and JavaScript. Add a short description of what it does here.</p>
       <p>
-        <a href="LIVE_DEMO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+     a
         <a href="REPO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
       </p>
     </td>
