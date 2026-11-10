@@ -33,18 +33,18 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>📁 PROJECT_NAME_2</h3>
+      <h3>university academic scheduler</h3>
       <p>Short description of your second project goes here.</p>
       <p>
-        <a href="LIVE_DEMO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+      a
         <a href="REPO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>📁 PROJECT_NAME_3</h3>
+      <h3>kashier</h3>
       <p>Short description of your third project goes here.</p>
       <p>
-        <a href="LIVE_DEMO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+        a
         <a href="REPO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
       </p>
     </td>
