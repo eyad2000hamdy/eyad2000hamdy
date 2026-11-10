@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Iyad%20Hamdy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=22" alt="Iyad Hamdy – Front-End Developer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Eyad%20Hamdy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=22" alt="Eyad Hamdy – Front-End Developer" width="100%">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Iyad+%F0%9F%91%8B;Front-End+Developer;I+build+fast%2C+clean+%26+interactive+web+apps" alt="Typing animation">
