@@ -26,7 +26,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3>🎮 Level Up</h3>
-      <p>A front-end project built with HTML, CSS and JavaScript. Add a short description of what it does here.</p>
+      <p>A front-end project built with HTML, CSS and JavaScript.A gamified study platform that helps students overcome study backlogs, organize daily tasks, and track their academic progress through interactive 3D islands and a growing virtual pet that evolves as they achieve their goals...</p>
       <p>
      a
         <a href="REPO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
@@ -34,7 +34,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>university academic scheduler</h3>
-      <p>Short description of your second project goes here.</p>
+      <p>A comprehensive academic management platform that helps university students organize lectures, exams, study schedules, and academic tasks, track their progress, and stay on top of their university responsibilities without confusion.</p>
       <p>
       a
         <a href="REPO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
@@ -42,7 +42,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>kashier</h3>
-      <p>Short description of your third project goes here.</p>
+      <p>A simple, flexible, and easy-to-use point-of-sale system designed to manage sales, products, inventory, and daily business operations for cafes, restaurants, supermarkets, retail stores, and various types of businesses..</p>
       <p>
         a
         <a href="REPO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
