@@ -45,7 +45,7 @@
       <p>A simple, flexible, and easy-to-use point-of-sale system designed to manage sales, products, inventory, and daily business operations for cafes, restaurants, supermarkets, retail stores, and various types of businesses..</p>
       <p>
         a
-        <a href="REPO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+        <a href="https://eyad2000hamdy.github.io/kashier-/" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
       </p>
     </td>
   </tr>
