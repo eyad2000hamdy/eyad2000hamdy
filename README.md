@@ -37,7 +37,7 @@
       <p>A comprehensive academic management platform that helps university students organize lectures, exams, study schedules, and academic tasks, track their progress, and stay on top of their university responsibilities without confusion.</p>
       <p>
       a
-        <a href="REPO_LINK_HERE" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+        <a href="https://eyad2000hamdy.github.io/university-academic-scheduler/" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
       </p>
     </td>
     <td width="33%" valign="top">
